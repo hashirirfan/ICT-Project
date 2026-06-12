@@ -74,7 +74,7 @@ A specialized B2B/B2C hybrid web platform for traditional Pakistani sweeteners, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/alsadiq-heritage-sweeteners.git
+   git clone https://github.com/hashirirfan/ICT-Project
    ```
 
 2. **Navigate to project directory**
@@ -102,7 +102,6 @@ A specialized B2B/B2C hybrid web platform for traditional Pakistani sweeteners, 
 - **CSS3**: Modern styling with CSS Grid, Flexbox, and custom properties
 - **Vanilla JavaScript**: No frameworks for optimal performance
 - **Local Storage**: Persistent cart data storage
-- **Responsive Design**: Mobile-first approach
 
 ### Key JavaScript Features
 - **Dynamic Product Rendering**: Products loaded from centralized data file
@@ -136,7 +135,6 @@ A specialized B2B/B2C hybrid web platform for traditional Pakistani sweeteners, 
 - Professional wholesale inquiry form
 - Business partnership information
 - Industry-specific pricing
-- Account management features
 
 ### 4. Product Details (`individual.html`)
 - Detailed product information
